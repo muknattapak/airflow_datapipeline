@@ -21,8 +21,8 @@ def _get_data_from_api():
 
 
 default_args = {
-    "owner": "TAA",
-    "email": ["thawaree@zanegrowth.com"],
+    "owner": "bdh",
+    "email": ["la.nattapak@zanegrowth.com"],
     "start_date": timezone.datetime(2022, 11, 15),
     "retries": 3,
     "retry_delay": timedelta(seconds=5),
